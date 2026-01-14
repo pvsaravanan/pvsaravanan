@@ -104,10 +104,5 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31g2icyylgaoo2m7b2exxzjb2q3m&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31g2icyylgaoo2m7b2exxzjb2q3m&cover_image=true&theme=dark" alt="Now Playing" />
-  </a>
-</div>
 
 ###
