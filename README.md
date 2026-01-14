@@ -128,4 +128,9 @@
   </table>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pvsaravanan&show_icons=true&theme=transparent&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvsaravanan&layout=compact&theme=transparent" height="170" />
+</div>
+
 ###
