@@ -1,3 +1,10 @@
+<html>
+  <head>
+    
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+      
+  </head>
+</html>
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=SARAVANAN%20PV&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=4.5&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
@@ -85,7 +92,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
 </div>
@@ -113,7 +120,7 @@
 
 <br />
 
-
+### LeetCode Stats
 <div align="center">
   <table border="0">
     <tr>
