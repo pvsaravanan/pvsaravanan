@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;ML+Engineer;Full-stack+Developer;SDE;RPA+Developer" alt="Typing SVG" />
 </div>
 
+
+
 ###
 
 <br clear="both">
@@ -134,9 +136,5 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvsaravanan&show_icons=true&theme=transparent&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvsaravanan&layout=compact&theme=transparent" height="170" />
-</div>
 
 ###
