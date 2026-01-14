@@ -104,7 +104,15 @@
   </a>
 </div>
 
-### 📈 LeetCode Stats
+<br>
+<br>
+
+
+### 
+<br>
+
+###
+
 <div align="center">
   <table border="0">
     <tr>
@@ -112,20 +120,6 @@
         <img src="https://leetcard.jacoblin.cool/saravananpv?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Stats" />
       </td>
       <td>
-        <img src="https://leetcard.jacoblin.cool/saravananpv?ext=heatmap" alt="LeetCode Heatmap" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 📈 LeetCode Activity
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top">
-        <img src="https://leetcard.jacoblin.cool/saravananpv?theme=dark&font=Baloo_2" alt="LeetCode Stats" />
-      </td>
-      <td valign="top">
         <img src="https://leetcard.jacoblin.cool/saravananpv?ext=heatmap" alt="LeetCode Heatmap" />
       </td>
     </tr>
