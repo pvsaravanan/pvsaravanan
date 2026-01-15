@@ -136,5 +136,25 @@
   </table>
 </div>
 
+###
+
+
+<img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=OPEN%20%20SOURCE%20%20CONTRIBUTIONS&fontSize=40&fontColor=FFFFFF&fontAlign=36&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+
+
+<div align="center">
+  <img
+    height="200"
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3"
+  />
+</div>
 
 ###
+
+- **DevMe** _(Chrome Extension)_  
+  Improved onboarding by implementing a user-configurable setup flow, allowing users to view their own GitHub and LeetCode stats instead of hardcoded demo data.  
+  🔗 **Pull Request:** https://github.com/codebyNJ/DevMe/pull/2
+
+
+
+
