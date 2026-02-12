@@ -155,6 +155,11 @@
   Improved onboarding by implementing a user-configurable setup flow, allowing users to view their own GitHub and LeetCode stats instead of hardcoded demo data.  
   🔗 **Pull Request:** https://github.com/codebyNJ/DevMe/pull/2
 
+- **DocuHub** _(WebAssembly-powered PDF Toolkit)_  
+  Fixed object URL memory leaks across multiple tools by implementing proper lifecycle cleanup and eliminating blob URL persistence in `localStorage`. Enhanced memory stability for large PDF processing and   improved overall architectural consistency.  
+  🔗 **Pull Request:** https://github.com/R3ACTR/DocuHub/pull/192
+
+
 
 
 
