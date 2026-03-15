@@ -3,6 +3,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=SARAVANAN%20PV&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=4.5&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
+<h3 align="center">
+  Check out my <a href="https://www.saravananpv.tech">portfolio</a>
+</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;ML+Engineer;Full-stack+Developer;SDE;RPA+Developer" alt="Typing SVG" />
