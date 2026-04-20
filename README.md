@@ -1,11 +1,10 @@
-
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=SARAVANAN%20PV&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=4.5&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
-<h3 align="center">
+<!-- <h3 align="center">
   Check out my <a href="https://www.saravananpv.tech">portfolio</a>
-</h3>
+</h3> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;ML+Engineer;Full-stack+Developer;SDE;RPA+Developer" alt="Typing SVG" />
@@ -21,24 +20,36 @@
 
 ###
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/saravananpv2005/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/>
   </a>
   
+  <img width="15"/>
+  
   <a href="https://x.com/saravananpv3010" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" alt="x logo"/>
   </a>
+
+  <img width="15"/>
+
   <a href="https://discord.com/channels/saravananpv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" alt="discord logo"  />
   </a>
+
+  <img width="15"/>
+
   <a href="mailto:saravananpv30102005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" alt="gmail logo"  />
   </a>
+
+<img width="15"/>
+  
   <a href="https://www.instagram.com/saravanan30102005/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" alt="instagram logo"  />
   </a>
-</div>
+  
+</p>
 
 ###
 
@@ -47,60 +58,65 @@
 </div>
 
 ###
-
+<div align="center">
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/pvsaravanan/pvsaravanan/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" width="52" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="52" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="52" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" width="52" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/electron/47848F" width="52" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="52" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="52" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="52" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="52" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="52" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="52" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="52" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="52" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="52" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="52" height="40" alt="figma logo"  />
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/express/000000" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.simpleicons.org/electron/47848F" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50"/>
+  <img width="15"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="50"/>
+</p>
 
 ###
 
