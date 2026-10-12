@@ -215,7 +215,24 @@
 ###
 
 
-<img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=OPEN%20%20SOURCE%20%20CONTRIBUTIONS&fontSize=40&fontColor=FFFFFF&fontAlign=36&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+<!-- <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=OPEN%20%20SOURCE%20%20CONTRIBUTIONS&fontSize=40&fontColor=FFFFFF&fontAlign=36&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  /> -->
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=OPEN%20%20SOURCE%20%20CONTRIBUTIONS&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=fadeIn"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=OPEN%20%20SOURCE%20%20CONTRIBUTIONS&fontSize=40&fontColor=1F2328&fontAlign=50&fontAlignY=50&animation=fadeIn"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=OPEN%20%20SOURCE%20%20CONTRIBUTIONS&fontSize=40&fontColor=1F2328&fontAlign=50&fontAlignY=50&animation=fadeIn"
+    alt="Open Source Contributions"
+    width="100%"
+  />
+</picture>
 
 
 <div align="center">
