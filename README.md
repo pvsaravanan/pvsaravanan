@@ -95,11 +95,31 @@
 </div>
 
 ###
-<div align="center">
+<!-- <div align="center">
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/pvsaravanan/pvsaravanan/output/snake.svg" alt="Snake animation" />
+</div> -->
+
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pvsaravanan/pvsaravanan/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pvsaravanan/pvsaravanan/output/snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/pvsaravanan/pvsaravanan/output/snake.svg"
+      alt="GitHub contribution snake animation"
+      width="100%"
+    />
+  </picture>
 </div>
+
 
 ###
 
