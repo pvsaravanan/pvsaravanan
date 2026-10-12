@@ -1,14 +1,51 @@
-<div align="center">
+<!-- <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=SARAVANAN%20PV&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=4.5&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
-</div>
+</div> -->
 
 <!-- <h3 align="center">
   Check out my <a href="https://www.saravananpv.tech">portfolio</a>
 </h3> -->
 
-<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&text=SARAVANAN%20PV&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=4.5&animation=fadeIn&color=0:0D1117,100:161B22"
+  />
+  <source
+  media="(prefers-color-scheme: light)"
+  srcset="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=SARAVANAN%20PV&fontSize=70&fontColor=1F2328&fontAlign=50&fontAlignY=50&animation=fadeIn"
+/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&text=SARAVANAN%20PV&fontSize=70&fontColor=1F2328&fontAlign=50&fontAlignY=50&stroke=1F2328&strokeWidth=2&animation=fadeIn&color=0:FFFFFF,100:F3F4F6"
+    alt="Saravanan PV"
+    width="100%"
+  />
+</picture>
+
+
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;ML+Engineer;Full-stack+Developer;SDE;RPA+Developer" alt="Typing SVG" />
+</div> -->
+
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;ML+Engineer;Full-stack+Developer;SDE;RPA+Developer"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=24292F&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;ML+Engineer;Full-stack+Developer;SDE;RPA+Developer"
+    />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=24292F&center=true&vCenter=true&width=600&height=70&lines=AI+Engineer;ML+Engineer;Full-stack+Developer;SDE;RPA+Developer"
+      alt="AI Engineer, ML Engineer, Full-stack Developer, SDE, RPA Developer"
+    />
+  </picture>
 </div>
+
 
 
 
